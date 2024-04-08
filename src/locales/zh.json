@@ -1,3 +1,11 @@
 {
-  "title":"这是中文标题"
+  "select_table": "选择表格",
+  "select_table_placeholder": "请选择一个要操作的表格",
+  "select_origin_field": "选择一个日期字段",
+  "select_origin_field_placeholder": "请选择需要转换的日期字段",
+  "select_target_time_format": "选择目标格式模版",
+  "select_target_time_format_placeholder": "请选择一个语义化的日期格式模版",
+  "select_target_fields": "目标字段",
+  "select_target_fields_placeholder": "请选择目标字段",
+  "submit_button": "确定转换"
 }

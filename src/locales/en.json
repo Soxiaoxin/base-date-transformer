@@ -1,3 +1,11 @@
 {
-  "title":"这是英文标题"
+  "select_table": "Select Table",
+  "select_table_placeholder": "Please select a table to operate",
+  "select_origin_field": "Select A Date Field",
+  "select_origin_field_placeholder": "Please choose the date field to be converted",
+  "select_target_time_format": "Select Target Format",
+  "select_target_time_format_placeholder": "Please choose a semantic date format",
+  "select_target_fields": "Target Fields",
+  "select_target_fields_placeholder": "Please select target fields",
+  "submit_button": "Confirm Conversion"
 }

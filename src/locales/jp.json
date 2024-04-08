@@ -1,0 +1,11 @@
+{
+  "select_table": "テーブル選択",
+  "select_table_placeholder": "操作するテーブルを選択してください",
+  "select_origin_field": "日付フィールドを選択",
+  "select_origin_field_placeholder": "変換する日付フィールドを選んでください",
+  "select_target_time_format": "目的のフォーマットを選択",
+  "select_target_time_format_placeholder": "意味のある日付フォーマットを選んでください",
+  "select_target_fields": "目標フィールド",
+  "select_target_fields_placeholder": "目標フィールドを選んでください",
+  "submit_button": "変換を確定"
+}
